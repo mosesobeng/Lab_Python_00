@@ -1,0 +1,215 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> print 'Hello,AIT!'
+Hello,AIT!
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Day1.py
+", line 4, in <module>
+    print c
+NameError: name 'c' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+5
+5.5
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+5
+5.5
+24
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+5
+5.5
+24
+6939667
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+11/2= 
+5
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+11/2= 
+5
+11.0/2
+5.5
+3 to the power of 27 is 
+24
+(134533 + 6889980 -84849)^3 = 
+6939667
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+11/2= 
+5
+
+11.0/2
+5.5
+
+3 to the power of 27 is 
+24
+
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+11/2= 
+5
+
+11.0/2=
+5.5
+
+3 to the power of 27 is 
+24
+
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+The average time per meter is 
+0.00108164581481
+
+>>> ================================ RESTART ================================
+>>> 
+Moses Obeng
+Hello World
+95
+1
+11/2= 
+5
+
+11.0/2=
+5.5
+
+2
+3 to the power of 27 is 
+24
+
+3
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+4
+The average time per meter is 
+0.00108164581481
+
+5
+>>> ================================ RESTART ================================
+>>> 
+Obeng Moses
+Hello World
+95
+1
+11/2= 
+5
+
+11.0/2=
+5.5
+
+2
+3 to the power of 27 is 
+24
+
+3
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+4
+The average time per meter is 
+1.74074074074
+
+5
+the shortest distance between ME and my friend in miles
+8.7613311
+
+>>> ================================ RESTART ================================
+>>> 
+Obeng Moses
+Ex 1.5) The Python Console: Using Python as a Calculator
+95
+1
+11/2= 
+5
+
+11.0/2=
+5.5
+
+2
+3 to the power of 27 is 
+24
+
+3
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+4
+The average time per meter is 
+1.74074074074
+
+5
+the shortest distance between ME and my friend in miles
+8.7613311
+
+>>> ================================ RESTART ================================
+>>> 
+Obeng Moses
+Ex 1.5) The Python Console: Using Python as a Calculator
+95
+Question 1
+11/2= 
+5
+
+11.0/2=
+5.5
+
+Question 2
+3 to the power of 27 is 
+24
+
+Question 3
+(134533 + 6889980 -84849)^3 = 
+6939667
+
+Question 4
+The average time per meter is 
+1.74074074074
+
+Question 5
+the shortest distance between ME and my friend in miles
+8.7613311
+
+>>> 
