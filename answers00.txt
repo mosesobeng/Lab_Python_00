@@ -1,6 +1,7 @@
 Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
 [GCC 4.6.1] on linux2
 Type "copyright", "credits" or "license()" for more information.
+
 >>> 
 Obeng Moses
 Ex 1.5) The Python Console: Using Python as a Calculator
@@ -14,11 +15,11 @@ Question 1
 
 Question 2
 3 to the power of 27 is 
-7625597484987
+24
 
 Question 3
-(134533 + 6889980 -84849)**3 = 
-334206837441656786944
+(134533 + 6889980 -84849)^3 = 
+6939667
 
 Question 4
 The average time per meter is 
